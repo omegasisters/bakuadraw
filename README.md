@@ -1,9 +1,11 @@
 # バクアドロー
 
-Booth:(URLまだない)
+## 購入
 
-# バクアドロー ルール説明
-(説明書の画像を後で入れる)
+Booth: https://omesis-shop.booth.pm/items/3430419
+
+## 説明書
+![説明書](https://user-images.githubusercontent.com/37191619/142194427-7738e074-3b92-44cc-bb4e-b0a0a713c7f4.png)
 
 # バクアドロー よくある質問
 気になったカード名を検索してください！  
