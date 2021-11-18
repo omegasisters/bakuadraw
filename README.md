@@ -1,5 +1,8 @@
 # バクアドロー
 
+## プレイ動画
+https://youtu.be/9bLN9IQmBsk
+
 ## 購入
 
 Booth: https://omesis-shop.booth.pm/items/3430419
